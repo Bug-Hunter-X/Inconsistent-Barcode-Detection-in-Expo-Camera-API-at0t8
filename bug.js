@@ -1,0 +1,1 @@
+This bug occurs when using the Expo's Camera API with a custom `onBarCodeScanned` function. The issue is that the function isn't called consistently or at all. This can lead to an application where barcodes are not detected or the detection is unreliable.
